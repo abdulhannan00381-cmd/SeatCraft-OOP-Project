@@ -1,0 +1,9 @@
+SeatCraft v1.0 - online pages
+=============================
+
+Stakeholder presentation : https://claude.ai/artifact/7AFbGsZyF7rBRZE34HD97S
+Setup & run guide        : https://claude.ai/artifact/DUvudANNmBKm2ti6jpNmZw
+Design canvas (Marquee)  : https://claude.ai/artifact/9Rk9enGXCMoiyzoX3LbNTw
+
+The setup guide is also included offline: Docs\SeatCraft-Setup-Guide.html
+The product film is Docs\SeatCraft-Product-Showcase-v2.mp4 (1080p, 65 s, voiceover) with captions in the .srt beside it.

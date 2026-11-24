@@ -1,0 +1,10 @@
+# Ready-built program and Qt runtime (build it from Source/ instead)
+App/
+
+# Build output and local data
+build/
+build-*/
+*.tmp
+seatcraft.txt
+seatcraft.txt.damaged
+test_*.txt

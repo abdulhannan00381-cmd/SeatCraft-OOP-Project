@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="400" height="600">
+<defs>
+<radialGradient id="a" cx="0.5" cy="0.32" r="0.75"><stop offset="0" stop-color="#3A40A8"/><stop offset="0.5" stop-color="#151842"/><stop offset="1" stop-color="#050507"/></radialGradient>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4E8FF" stop-opacity="0.55"/><stop offset="1" stop-color="#E4E8FF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="200" height="300" fill="url(#a)"/>
+<circle cx="100" cy="96" r="58" fill="none" stroke="#C9D2FF" stroke-opacity="0.35"/>
+<circle cx="100" cy="96" r="36" fill="#C9D2FF" fill-opacity="0.14"/>
+<polygon points="90,0 110,0 152,232 48,232" fill="url(#b)"/>
+<ellipse cx="100" cy="234" rx="74" ry="10" fill="#C9D2FF" fill-opacity="0.22"/>
+<path d="M93 234v-40q0-9 7-9t7 9v40z" fill="#050507"/>
+<circle cx="100" cy="176" r="7.5" fill="#050507"/>
+<path d="M0 272q14-14 28 0t28 0t28 0t28 0t28 0t28 0t28 0t28 0V300H0z" fill="#050507"/>
+<text x="14" y="32" fill="#E4E8FF" font-family="Bahnschrift" font-weight="bold" font-size="26">TECHTALK</text>
+<text x="14" y="50" fill="#E4E8FF" fill-opacity="0.6" font-family="Consolas" font-size="10">2026 · MAIN AUDITORIUM</text>
+</svg>

@@ -1,0 +1,5 @@
+build/
+build-cli/
+*.tmp
+seatcraft.txt
+test_*.txt
