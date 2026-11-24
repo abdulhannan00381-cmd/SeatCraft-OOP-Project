@@ -7,6 +7,13 @@ SeatCraft is an offline desktop box office for campus events. Desk staff pick se
 - **Storage:** one local text file, no database, no internet
 - **Tests:** 75 automated acceptance checks
 
+## Download and run (no install)
+
+1. Download [SeatCraft-v1.0.zip](https://github.com/abdulhannan00381-cmd/SeatCraft-OOP-Project/releases/download/v1.0/SeatCraft-v1.0.zip) from the [v1.0 release](https://github.com/abdulhannan00381-cmd/SeatCraft-OOP-Project/releases/tag/v1.0) and extract it.
+2. Open the `App` folder and double-click `SeatCraft-Demo.exe` (sample data) or `SeatCraft.exe` (starts clean).
+
+Windows 10 or 11, 64-bit. If Windows shows "Windows protected your PC", click **More info > Run anyway**.
+
 ## OOP concepts
 
 | Concept | Where |
